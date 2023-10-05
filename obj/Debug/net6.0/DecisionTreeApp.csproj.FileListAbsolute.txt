@@ -1,0 +1,14 @@
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\bin\Debug\net6.0\DecisionTreeApp.exe
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\bin\Debug\net6.0\DecisionTreeApp.deps.json
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\bin\Debug\net6.0\DecisionTreeApp.runtimeconfig.json
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\bin\Debug\net6.0\DecisionTreeApp.dll
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\bin\Debug\net6.0\DecisionTreeApp.pdb
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.AssemblyInfoInputs.cache
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.AssemblyInfo.cs
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.dll
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\refint\DecisionTreeApp.dll
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.pdb
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\DecisionTreeApp.genruntimeconfig.cache
+C:\Users\shkad\Downloads\bootcamp5\DecisionTreeApp\DecisionTreeApp\obj\Debug\net6.0\ref\DecisionTreeApp.dll
